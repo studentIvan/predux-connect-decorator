@@ -8,8 +8,8 @@
 #### Usage
 
 ```js
-import React, { Component } from 'react'
-import connect from 'redux-connect-decorator'
+import { Component } from 'preact'
+import connect from 'predux-connect-decorator'
 import Footer from './components/Footer'
 import Header from './components/Header'
 import Messages from './components/Messages'
@@ -62,10 +62,10 @@ Listed in this order.
 
 ###### yarn
 ```
-yarn add redux-connect-decorator
+yarn add predux-connect-decorator
 ```
 
 ###### npm
 ```
-npm install --save redux-connect-decorator
+npm install --save predux-connect-decorator
 ```
