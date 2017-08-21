@@ -1,4 +1,4 @@
-import { connect } from 'react-redux';
+import { connect } from 'preact-redux';
 import { bindActionCreators } from 'redux';
 
 const connectDecorator = (matchPropsToState, actions) => {
