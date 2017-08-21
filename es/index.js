@@ -4,7 +4,7 @@ Object.defineProperty(exports, "__esModule", {
   value: true
 });
 
-var _reactRedux = require('react-redux');
+var _reactRedux = require('preact-redux');
 
 var _redux = require('redux');
 
